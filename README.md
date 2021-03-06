@@ -30,3 +30,4 @@ It was a procedural approach to the problem at hand, but on refactoring and refi
 classes and objects have been created to follow an object oriented approach, this allowed for the end product to have multiplayer functionality, 
 modularity and reusability even though the code has not been written for multiple players to play, with a couple of tweaks it can be achieved.
 
+To play the game download or fork the file zorkwithclasses and run the main_game.py program in the folder.
