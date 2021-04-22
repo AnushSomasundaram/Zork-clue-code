@@ -1,6 +1,6 @@
 # Zork-clue-code
 
-Project Description
+## Project Description
 
 Zork-Clue is a text based game with a fully functional tile map, where the player can move around using text commands, 
 the objective of the game is to find a weapon in one of the tiles on the map. 
@@ -9,14 +9,14 @@ the board has multiple rooms and hallways with walls and doors to restrict the p
 when he reaches the location of the weapon the game will terminate. 
 The player can move one tile for each move.The player has to find the weapon in the least possible amount of moves. 
 
-Expected Outcome 
+## Expected Outcome 
 
 The expected outcome of the game is for the player to find the weapon with the least number of moves. 
 In doing so the player can come up with a score (the number of moves taken by the player to find the weapon) ,
 keep in mind that the scoring system in zork-clue is like the scoring system in golf, 
 the leader is the one with the lowest score.
 
-Structure for i/o
+## Structure for i/o
 
 When the game starts, there is a description of the story behind the game and the objective of the game. 
 The player is then expected to navigate through the gui, a picture of the map is shown for the player’s reference, 
